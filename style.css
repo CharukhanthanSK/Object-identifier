@@ -1,0 +1,11 @@
+#camera{
+    border: 2px dashed;
+    width: 350px;
+    height: 350px;
+}
+body{
+    font-size: large;
+    background-color: rgb(39, 238, 8);
+    font-family: fantasy;
+    font-style: oblique;
+}
